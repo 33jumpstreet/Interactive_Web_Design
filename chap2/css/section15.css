@@ -1,0 +1,9 @@
+ul li {
+  float: left;
+  margin: 20px;
+}
+
+ul li .fa {
+  font-size: 50px;
+  color: blue;
+}

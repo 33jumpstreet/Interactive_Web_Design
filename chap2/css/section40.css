@@ -1,0 +1,11 @@
+div {
+  width: 600px;
+  height: 400px;
+  background: #888;
+  margin: 50px auto;
+}
+
+div p {
+  font-size: 40px;
+  color: #fff;
+}

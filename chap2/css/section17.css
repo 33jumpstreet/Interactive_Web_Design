@@ -1,0 +1,12 @@
+div {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 50px;
+}
+.box1 {
+  background: blue;
+}
+.box2 {
+  background: red;
+}

@@ -1,0 +1,18 @@
+uli li{
+  font-size: 30px;
+  margin-left: 50px;
+}
+div {
+  width: 400px;
+  height: 400px;
+  margin: 50px;
+  float: left;
+  font-size: 40px;
+  color: #fff;
+}
+.box1 {
+  background: blue;
+}
+.box2{
+  background: red;
+}

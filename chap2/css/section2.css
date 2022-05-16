@@ -1,0 +1,6 @@
+video {
+  display: block;
+  width: 900px;
+  margin: 50px auto;
+  border: 20px solid lightgreen;
+}

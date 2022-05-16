@@ -1,0 +1,14 @@
+div {
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  border: 1px solid #000;
+  float: left;
+}
+div p {
+  width: 100%;
+  height: 100%;
+  background: blue;
+  opacity: 0.3;
+  transform: rotate(15deg);
+}
